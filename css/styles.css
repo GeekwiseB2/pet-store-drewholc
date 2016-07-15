@@ -90,18 +90,38 @@
   margin-top: 20px;
 }
 
+h4 {
+  font-weight: bolder;
+}
+
 .docs {
   font-family: 'Lato', sans-serif;
 }
 
+.text-up {
+  padding-top: 40px;
+}
+
 .table {
   margin-left: 50px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+.th {
+  font-weight: bolder;
+}
+
+
+
+iframe {
+  margin-top: 25px;
 }
 
 /*footer*/
 .footer {
   background-color:#231F20;
-  margin-top: 50px;
+  margin-top: 25px;
   height: 150px;
   margin-bottom: 15px;
   color:#A9A9AA;
