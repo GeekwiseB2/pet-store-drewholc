@@ -44,13 +44,13 @@
         color:#6BB3E7;
         font-weight: 700;
 }
-.nav-pills > li.contactUs > a, .nav-pills > li.contactUs > a:focus {
+.nav-pills > li.home > a, .nav-pills > li.contactUs > a:focus {
         color: #6BB3E7;
         background-color: transparent;
         font-weight: 700;
 }
 
-.nav-pills > li.contactUs > a:hover {
+.nav-pills > li.home > a:hover {
         background-color: transparent;
         color:#6BB3E7;
         font-weight: 700;
@@ -82,64 +82,46 @@
   padding-top: 4%;
 }
 
-.jumbotron {
-  padding-top:0px;
-  padding-bottom: 0px;
+/*============middle=====================*/
+.doc-img {
+  height:150px;
+  weight::150px;
+  margin-left: 50px;
+  margin-top: 20px;
 }
 
-/*products*/
-
-.thumbnail{
-  background-color:#e7e7e7;
-  border: 20px;
+h4 {
+  font-weight: bolder;
 }
 
-.thumbnail caption{
-  padding:12px;
-  margin-bottom: 0px;
-}
-
-
-.featured-text {
-  text-transform: uppercase;
-  font-family: 'Lato', sans-serif;
-  font-weight: 700;
-  font-size: 28px;
-}
-
-/*services*/
-.col-md-offset {
-  margin-left: 40px;
-}
-.adopt-text {
-  text-align:center;
-  line-height: 24px;
-}
-.upper-text {
-  text-transform: uppercase;
-}
-
-.caption {
-  text-align: center;
-}
-
-.justify {
-  text-align: justify;
-}
-
-p {
-  font-size: 14px;
+.docs {
   font-family: 'Lato', sans-serif;
 }
 
-.adpot-text {
-  line-height: 2em;
+.text-up {
+  padding-top: 40px;
+}
+
+.table {
+  margin-left: 50px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+.th {
+  font-weight: bolder;
+}
+
+
+
+iframe {
+  margin-top: 25px;
 }
 
 /*footer*/
 .footer {
   background-color:#231F20;
-  margin-top: 50px;
+  margin-top: 25px;
   height: 150px;
   margin-bottom: 15px;
   color:#A9A9AA;
